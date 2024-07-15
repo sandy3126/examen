@@ -1,0 +1,32 @@
+body{
+    font-family: Arial, sans-serif;
+    padding-left: 430px; 
+    padding-right: 430px;
+  
+}
+.tarjeta {
+    box-shadow: 0 0 4px 4px lightgrey;
+    border-radius: 4px;
+   
+}
+
+.titulo {
+    background-color: grey;
+    color: white;
+    padding: 8px;
+    text-align: center;
+    font-size: 1.5em;
+}
+
+.texto {
+    font-style: italic;
+    text-align: justify;
+    padding: 8px;
+}
+
+.pie {
+    background-color: lightgrey;
+    color: white;
+    text-align: center;
+    padding: 8px;
+}

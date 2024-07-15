@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 8px;
+}
+body{
+   font-family: Tahoma, Geneva, sans-serif; 
+   font-size: 12px;
+}
+.contenedor{
+    margin:auto;
+    background-color: #CCC;
+    width: 200px;
+    border: 1px solid black;
+    box-shadow: 2px 2px 2px #888888;
+    padding: 8px 8px;
+    text-align: center;
+}
+h2 {
+    font-family: 'Lugrasimo', sans-serif;
+    text-shadow: 2px 2px 2px #e8f7b0;
+}
+img{
+   width: 200px;
+}
